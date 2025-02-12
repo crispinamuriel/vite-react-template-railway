@@ -14,7 +14,7 @@ export const Info = [
     {
       title: 'Personal Background',
       content:
-        "I'm a transplant from Southern California. I grew up and attended college in Bakersfield, CA. I'm now living in Washington State, with my wonderful fiance. I enjoy all the diverse food options and welcoming community here.",
+        "I'm a transplant from Southern California. I grew up and attended college in Bakersfield, CA, where I taught elementary school for 8 years. I am now living in Washington State, with my wonderful fiancé. I enjoy all of the diverse activites, food, and welcoming community here.",
       imgUrl: 'https://images.unsplash.com/flagged/photo-1575557173501-3a01a6b9904c?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
     },
     {
