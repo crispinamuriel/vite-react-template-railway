@@ -30,4 +30,52 @@ export const Info = [
       imgUrl: 'https://images.unsplash.com/photo-1706264337394-a67bf8e36fbc?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
     }
   ];
+  export const ProjectsData = [
+    {
+      id: 1,
+      title: "Calibrate Membership",
+      content: "Sign-up and payment flow for Calibrate members",
+      imageUrl: "calibrate.png",
+      projectUrl: "https://apply.joincalibrate.com/oymr",
+    },
+    {
+      id: 2,
+      title: "Join Calibrate",
+      content: "Calibrate marketing website",
+      imageUrl: "calibrate2.png",
+      projectUrl: "https://www.joincalibrate.com",
+    },
+    {
+      id: 3,
+      title: "EnCoMPASS",
+      content: "An educational app for students & teacher collaboration",
+      imageUrl: "encompass.png",
+      projectUrl: "https://github.com/crispinamuriel/encompass",
+      gitHubUrl: "https://github.com/crispinamuriel/encompass",
+    },
+    {
+      id: 4,
+      title: "Codewords",
+      content: "A multiplayer game based on the board game Codenames",
+      imageUrl: "codewords.png",
+      projectUrl: "https://github.com/crispinamuriel/Codewords",
+      gitHubUrl: "https://github.com/crispinamuriel/Codewords",
+    },
+    {
+      id: 5,
+      title: "LoveLaces",
+      content: "An e-commerce full stack application for women’s shoes",
+      imageUrl: "Shoes.png",
+      projectUrl: "https://github.com/crispinamuriel/Lovelaces",
+      gitHubUrl: "https://github.com/crispinamuriel/Lovelaces",
+    },
+    {
+      id: 6,
+      title: "Recipe App",
+      content: "A single page application to store user recipes",
+      imageUrl: "recipe.png",
+      projectUrl: "https://muriel-recipe-app.netlify.com/",
+      gitHubUrl: "https://github.com/crispinamuriel/recipe-app",
+    },
+  ];
   
