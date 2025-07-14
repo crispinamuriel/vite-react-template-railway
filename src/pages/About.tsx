@@ -10,7 +10,7 @@ interface InfoEntry {
 export default function About() {
     return (
         <div id="container" className="row">
-        <div>
+        <div className="left-column">
           <img id="photo" className="circle sticky" src="/JennVandeKrol.jpg" alt="Jenn Muriel" />
         </div>
         <div id="stories" className="column quotes">
@@ -20,7 +20,7 @@ export default function About() {
                 className="story opacity box story-height"
                 key={infoEntry.id}
               >
-                <img src={infoEntry.imgUrl} width="500" />
+                <img src={infoEntry.imgUrl} className="responsive-image" />
               </div>
               <a>
                 <h3>{infoEntry.title}</h3>
