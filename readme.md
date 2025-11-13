@@ -1,3 +1,9 @@
+# Crispnia Muriel
+
+Personal website and portfolio, a front-end app created with  JavaScript, TypeScript, React, Vite, Caddy. Deployed using Railway, Git, and GitHub.
+
+You can view my portfolio website here https://crispina.up.railway.app/
+
 ---
 title: Vite + React
 description: The default Vite + React starter, utilizing `Caddy` to serve the built app
