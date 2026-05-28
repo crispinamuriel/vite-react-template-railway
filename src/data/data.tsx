@@ -14,8 +14,8 @@ export const Info = [
     {
       title: 'Personal Background',
       content:
-        "I grew up and attended college in Bakersfield, CA, where I taught elementary school for 8 years. I enjoy all of the diverse activites, food, and welcoming community here in Cali.",
-      imgUrl: 'https://images.unsplash.com/flagged/photo-1575557173501-3a01a6b9904c?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
+        "I grew up and attended college in Bakersfield, CA, where I taught elementary school for 8 years. I moved to NYC for 8 years and moved back home to Cali recently. I enjoy all of the diverse activites, food, and easy-going community in Southern California.",
+      imgUrl: 'https://images.unsplash.com/photo-1506610163-9cd7b1c78a78?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
     },
     {
       title: 'Professional Interests',
